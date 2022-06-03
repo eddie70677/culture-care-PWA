@@ -11,12 +11,13 @@ import {
 } from 'https://www.gstatic.com/firebasejs/9.8.1/firebase-firestore.js'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDT0Sd55G-IaTA3N--_VQ4n_uMaYWxd4S0",
-  authDomain: "culture-care-pwa.firebaseapp.com",
-  projectId: "culture-care-pwa",
-  storageBucket: "culture-care-pwa.appspot.com",
-  messagingSenderId: "191677666535",
-  appId: "1:191677666535:web:7a5dd47efc0afd57873e42"
+  apiKey: "AIzaSyCHATTd_7jFIZdtDgEm0ZpdBBCkZLnR4Q8",
+  authDomain: "test1-d2430.firebaseapp.com",
+  databaseURL: "https://test1-d2430-default-rtdb.firebaseio.com",
+  projectId: "test1-d2430",
+  storageBucket: "test1-d2430.appspot.com",
+  messagingSenderId: "667660696375",
+  appId: "1:667660696375:web:1832c31537b215575af8b2"
 };
 
 // init firebase
